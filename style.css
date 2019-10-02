@@ -1,0 +1,51 @@
+html {
+    background: whitesmoke;
+}
+
+h1{
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+
+}
+
+.parent1 {
+    text-align: center;
+}
+
+
+.parent2 {
+    text-align: center;
+}
+
+.top {
+    text-align: left;
+    list-style: inside;
+    display: inline-block;
+    box-sizing: content-box;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    padding: 5px ;
+    border: 5px solid green;
+    margin: 0 auto;
+    
+
+}
+
+.bottom {
+    text-align: left;
+    list-style: inside;
+    display: inline-block;
+    box-sizing: content-box;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    padding: 5px;
+    border: 5px solid green;
+    margin: 0 auto;
+    
+
+}
